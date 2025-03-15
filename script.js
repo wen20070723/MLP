@@ -3,7 +3,8 @@ const characters = [
     { name: "余晖烁烁", image: "sunset_shimmer.jpg", link: "https://wen20070723.github.io/SunsetShimmer/" },
     { name: "暮光闪闪", image: "twilight_sparkle.jpg", link: "https://wen20070723.github.io/TwilightSparkle/" },
     { name: "音韵公主", image: "princess_cadence.jpg", link: "https://wen20070723.github.io/princessCadance/" },
-    { name: "星光熠熠", image: "starlight_glimmer.jpg", link: "https://wen20070723.github.io/StarlightGlimmer/" }
+    { name: "星光熠熠", image: "starlight_glimmer.jpg", link: "https://wen20070723.github.io/StarlightGlimmer/" },
+    { name: "穗龙", image: "spike.jpg", link: "https://wen20070723.github.io/Spaike/" } // 修改为英文文件名
 ];
 
 // 渲染角色列表
